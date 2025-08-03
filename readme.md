@@ -402,6 +402,9 @@ def batch_predict(time_series_list):
 
 This project is licensed under the MIT License.
 
+## Disclaimer
+This software has been developed thanks to the MobiSpaces project (Grant agreement ID: 101070279)
+
 ## 📞 Support
 
 For issues and questions:
